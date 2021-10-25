@@ -4,3 +4,4 @@
 "Change added in main branch."
 "Change added in newOne branch."
 "Change made in newOne to provoke conflict"
+"Hi I am a collaborator from another terminal"
