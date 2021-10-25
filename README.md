@@ -2,3 +2,5 @@
 "Just a second line"
 "A Third change on the file"
 "Change added in main branch."
+"Change added in newOne branch."
+"Change made in newOne to provoke conflict"
